@@ -3,7 +3,7 @@
 	SendMapVote
 	@author Garantae
 
-	Responsible for sending the vote for its corresponding map. Each different MapButton will have different event fires.
+	Responsible for sending the vote for its corresponding map. This script is pasted into each different MapButton.
 
 --]]
 
